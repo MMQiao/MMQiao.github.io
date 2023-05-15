@@ -2,42 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://mmqiao.github.io/woolgathering/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://mmqiao.github.io/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/%E5%B0%8F%E8%AF%B4%E7%81%B5%E6%84%9F/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</loc>
+    <loc>http://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://mmqiao.github.io/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/hello/</loc>
+    <loc>http://mmqiao.github.io/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/hello/</loc>
+    <loc>http://mmqiao.github.io/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/markdown-cheat-sheet/</loc>
+    <loc>http://mmqiao.github.io/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://mmqiao.github.io/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://mmqiao.github.io/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/whatsapp/</loc>
+    <loc>http://mmqiao.github.io/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/%E9%9A%8F%E6%89%8B%E8%AE%B0/20230514/</loc>
+    <loc>http://mmqiao.github.io/informal-essay/20230514/</loc>
   </url><url>
-    <loc>http://example.org/categories/css/</loc>
+    <loc>http://mmqiao.github.io/dream/</loc>
   </url><url>
-    <loc>http://example.org/categories/javascript/</loc>
+    <loc>http://mmqiao.github.io/informal-essay/</loc>
   </url><url>
-    <loc>http://example.org/categories/uncategories/</loc>
+    <loc>http://mmqiao.github.io/ubuntu-learning/</loc>
+  </url><url>
+    <loc>http://mmqiao.github.io/categories/css/</loc>
+  </url><url>
+    <loc>http://mmqiao.github.io/categories/javascript/</loc>
+  </url><url>
+    <loc>http://mmqiao.github.io/categories/uncategories/</loc>
   </url>
 </urlset>
