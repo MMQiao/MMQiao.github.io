@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mmqiao.github.io/woolgathering/</loc>
+    <loc>http://mmqiao.github.io/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/</loc>
+    <loc>http://mmqiao.github.io/woolgathering/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
     <loc>http://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</loc>
@@ -34,16 +34,16 @@
   </url><url>
     <loc>http://mmqiao.github.io/informal-essay/20230514/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/dream/</loc>
-  </url><url>
-    <loc>http://mmqiao.github.io/informal-essay/</loc>
-  </url><url>
-    <loc>http://mmqiao.github.io/ubuntu-learning/</loc>
-  </url><url>
     <loc>http://mmqiao.github.io/categories/css/</loc>
   </url><url>
     <loc>http://mmqiao.github.io/categories/javascript/</loc>
   </url><url>
+    <loc>http://mmqiao.github.io/ubuntu-learning/</loc>
+  </url><url>
     <loc>http://mmqiao.github.io/categories/uncategories/</loc>
+  </url><url>
+    <loc>http://mmqiao.github.io/dream/</loc>
+  </url><url>
+    <loc>http://mmqiao.github.io/informal-essay/</loc>
   </url>
 </urlset>
