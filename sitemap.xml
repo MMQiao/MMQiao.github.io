@@ -2,48 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mmqiao.github.io/</loc>
+    <loc>https://mmqiao.github.io/</loc>
+    <lastmod>2023-05-15T21:35:34+08:00</lastmod>
+  </url><url>
+    <loc>https://mmqiao.github.io/informal_essay/kugga/</loc>
+    <lastmod>2023-05-15T21:35:34+08:00</lastmod>
+  </url><url>
+    <loc>https://mmqiao.github.io/informal_essay/</loc>
+    <lastmod>2023-05-15T21:35:34+08:00</lastmod>
+  </url><url>
+    <loc>https://mmqiao.github.io/woolgathering/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/woolgathering/</loc>
+    <loc>https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2023-05-14T22:42:15+08:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</loc>
-    <lastmod>2023-05-14T22:42:15+08:00</lastmod>
-  </url><url>
-    <loc>http://mmqiao.github.io/categories/</loc>
+    <loc>https://mmqiao.github.io/categories/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/tags/hello/</loc>
+    <loc>https://mmqiao.github.io/tags/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/categories/hello/</loc>
+    <loc>https://mmqiao.github.io/categories/hello/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/posts/markdown-cheat-sheet/</loc>
+    <loc>https://mmqiao.github.io/posts/markdown-cheat-sheet/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/posts/</loc>
+    <loc>https://mmqiao.github.io/posts/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/tags/</loc>
+    <loc>https://mmqiao.github.io/tags/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/tags/whatsapp/</loc>
+    <loc>https://mmqiao.github.io/tags/whatsapp/</loc>
     <lastmod>2022-08-27T09:16:45+00:00</lastmod>
   </url><url>
-    <loc>http://mmqiao.github.io/informal-essay/20230514/</loc>
+    <loc>https://mmqiao.github.io/informal_essay/20230514/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/categories/css/</loc>
+    <loc>https://mmqiao.github.io/categories/css/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/categories/javascript/</loc>
+    <loc>https://mmqiao.github.io/categories/javascript/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/ubuntu-learning/</loc>
+    <loc>https://mmqiao.github.io/ubuntu_learning/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/categories/uncategories/</loc>
+    <loc>https://mmqiao.github.io/categories/uncategories/</loc>
   </url><url>
-    <loc>http://mmqiao.github.io/dream/</loc>
-  </url><url>
-    <loc>http://mmqiao.github.io/informal-essay/</loc>
+    <loc>https://mmqiao.github.io/dream/</loc>
   </url>
 </urlset>

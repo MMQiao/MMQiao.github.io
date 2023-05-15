@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miaomiao Qiao There！ on MMQ&#39;S BLOG</title>
-    <link>https://mmqiao.github.io/</link>
-    <description>Recent content in Miaomiao Qiao There！ on MMQ&#39;S BLOG</description>
+    <title>随手记 on MMQ&#39;S BLOG</title>
+    <link>https://mmqiao.github.io/informal_essay/</link>
+    <description>Recent content in 随手记 on MMQ&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Mon, 15 May 2023 21:35:34 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 May 2023 21:35:34 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/informal_essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>假面骑士观后感</title>
       <link>https://mmqiao.github.io/informal_essay/kugga/</link>
@@ -20,24 +20,6 @@ blade从一开始骑士封印怪物之后，很快引入了橘和乌丸所长的
 但可能是篇幅的限制（亦或是文化差异），很多情节在过度时依旧略显生硬，比如那位认joker做大哥的吉他小哥的快速翻脸，或是在变身怪挑拨离间时莫名其妙的战斗。在kugga中，这种生硬的感觉更加明显。也许是日本警察办案流程不同，但五代一开始拿到腰带的方式感觉有些随意。再者是在发现不明生物时，虽然五代会立马赶往现场，但是战斗表现一直不理想。虽然最后总是能干掉怪物，但在那之前总得先挨一顿打。并且战斗形态的切换、武器的获得、招式的研发也太过简单——只要文字破译结果出来，kugga立马就知道如何使用，并且还能一击杀敌，希望后面的设定可以解释这一点。
 也许是我太过理想化，但总觉得出现这种危机时，政府应该马上严控封闭全城，调动军队巡查清理目标，单纯出动警察多少有点轻视了。而且在已知破译文字对kugga战力提升巨大的情况下，政府多少该拨多几台电脑帮忙破译。
 blade的战力虽然也不太清晰，但主角还是会在#行文逻辑还是一如既往的烂啊，真希望有人能教教我写文章</description>
-    </item>
-    
-    <item>
-      <title>时间旅行</title>
-      <link>https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</link>
-      <pubDate>Sun, 14 May 2023 22:42:15 +0800</pubDate>
-      
-      <guid>https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</guid>
-      <description>时间旅行</description>
-    </item>
-    
-    <item>
-      <title>Markdown Cheat Sheet</title>
-      <link>https://mmqiao.github.io/posts/markdown-cheat-sheet/</link>
-      <pubDate>Sat, 27 Aug 2022 09:16:45 +0000</pubDate>
-      
-      <guid>https://mmqiao.github.io/posts/markdown-cheat-sheet/</guid>
-      <description>This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.</description>
     </item>
     
     <item>
