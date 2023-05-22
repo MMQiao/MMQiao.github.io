@@ -3,9 +3,9 @@
     <head><meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Woolgathering</title>
-<meta name="description" content="这里记录着我一些天马行空的想法">
-<link rel="canonical" href="https://mmqiao.github.io/woolgathering/">
+<title>Ubuntu学习笔记</title>
+<meta name="description" content="本菜鸟刚刚跨考上岸软件工程，记录一下学习Ubuntu过程中的一些发现">
+<link rel="canonical" href="https://mmqiao.github.io/self_study/">
 <link rel="robots" href="/robots.txt" />
 
 
@@ -28,9 +28,9 @@
         
         <li class="hover:text-gray-500"><a href="/">Home</a></li>
         
-        <li class="hover:text-gray-500"><a href="/self_study">Self study</a></li>
+        <li class="text-gray-900"><a href="/self_study">Self study</a></li>
         
-        <li class="text-gray-900"><a href="/woolgathering">Woolgathering</a></li>
+        <li class="hover:text-gray-500"><a href="/woolgathering">Woolgathering</a></li>
         
         <li class="hover:text-gray-500"><a href="/informal_essay">informal essay</a></li>
         
@@ -43,21 +43,49 @@
 
 
 <div class="flex flex-col gap-1">
-<h1 class="text-2xl font-extrabold">Woolgathering</h1>
-<p class="content text-lg text-gray-900"><p>这里记录着我一些天马行空的想法</p>
+<h1 class="text-2xl font-extrabold">Ubuntu学习笔记</h1>
+<p class="content text-lg text-gray-900"><p>本菜鸟刚刚跨考上岸软件工程，记录一下学习Ubuntu过程中的一些发现</p>
 </p>
 </div>
 
 <section class="py-10 flex flex-col gap-10 ">
 
     <article class="flex flex-col gap-1">
-    <h1 class="text-xl font-bold hover:underline"> <a href=" https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/ ">时间旅行</a></h1>
+    <h1 class="text-xl font-bold hover:underline"> <a href=" https://mmqiao.github.io/self_study/ubuntu_foundation/ ">Ubuntu Foundation</a></h1>
     <div class="text-gray-600">
     
-    时间旅行
+    scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件
+命令格式为
+scp -P xx user@remote:file_address local_file_address
+可以用-r选项来传递文件夹
+在服务器端使用exit命令中断连接
+服务器可以设置免密码登录，以及设置别名方便登录
+chmod修改权限
+r代表读权限，w代表写权限，x代表执行权限，s代表
+chmod -R 755 文件名|目录
     
     </div>
-    <div class="mt-2"><a class="inline-flex  gap-2 text-sm font-semibold items-center text-emerald-700 hover:text-emerald-600" href="https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/">Read This Article <span class="w-4 h-4 stroke-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+    <div class="mt-2"><a class="inline-flex  gap-2 text-sm font-semibold items-center text-emerald-700 hover:text-emerald-600" href="https://mmqiao.github.io/self_study/ubuntu_foundation/">Read This Article <span class="w-4 h-4 stroke-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+</svg>
+</span> </a> </div>
+</article>
+
+    <article class="flex flex-col gap-1">
+    <h1 class="text-xl font-bold hover:underline"> <a href=" https://mmqiao.github.io/self_study/python/ ">Python Learning</a></h1>
+    <div class="text-gray-600">
+    
+    python的单行注释，默认#和注释之间要有一个空格
+# 注释
+多行注释支持换行，三引号中间的内容都是注释
+&ldquo;&ldquo;&ldquo;注释&rdquo;&rdquo;&rdquo;
+type()函数可以查看数据类型，其返回值也可以赋值给变量
+需要注意的是，python的变量是没有类型的，type()返回的只是其中存储数据的类型
+print()函数可以输出多个数据，数据直接用逗号,隔开
+python中整数、浮点数都能转成字符串，但如果要把字符串转化成整数，要保证字符串中是正确的数字
+    
+    </div>
+    <div class="mt-2"><a class="inline-flex  gap-2 text-sm font-semibold items-center text-emerald-700 hover:text-emerald-600" href="https://mmqiao.github.io/self_study/python/">Read This Article <span class="w-4 h-4 stroke-2"><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
   <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
 </svg>
 </span> </a> </div>

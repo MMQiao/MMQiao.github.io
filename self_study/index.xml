@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ubuntu学习笔记 on MMQ&#39;S BLOG</title>
+    <link>https://mmqiao.github.io/self_study/</link>
+    <description>Recent content in Ubuntu学习笔记 on MMQ&#39;S BLOG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 22 May 2023 16:37:50 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/self_study/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu Foundation</title>
+      <link>https://mmqiao.github.io/self_study/ubuntu_foundation/</link>
+      <pubDate>Mon, 22 May 2023 16:37:50 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/self_study/ubuntu_foundation/</guid>
+      <description>scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件
+命令格式为
+scp -P xx user@remote:file_address local_file_address
+可以用-r选项来传递文件夹
+在服务器端使用exit命令中断连接
+服务器可以设置免密码登录，以及设置别名方便登录
+chmod修改权限
+r代表读权限，w代表写权限，x代表执行权限，s代表
+chmod -R 755 文件名|目录</description>
+    </item>
+    
+    <item>
+      <title>Python Learning</title>
+      <link>https://mmqiao.github.io/self_study/python/</link>
+      <pubDate>Mon, 22 May 2023 16:36:00 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/self_study/python/</guid>
+      <description>python的单行注释，默认#和注释之间要有一个空格
+# 注释
+多行注释支持换行，三引号中间的内容都是注释
+&amp;ldquo;&amp;ldquo;&amp;ldquo;注释&amp;rdquo;&amp;rdquo;&amp;rdquo;
+type()函数可以查看数据类型，其返回值也可以赋值给变量
+需要注意的是，python的变量是没有类型的，type()返回的只是其中存储数据的类型
+print()函数可以输出多个数据，数据直接用逗号,隔开
+python中整数、浮点数都能转成字符串，但如果要把字符串转化成整数，要保证字符串中是正确的数字</description>
+    </item>
+    
+  </channel>
+</rss>

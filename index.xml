@@ -1,13 +1,98 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Miaomiao Qiao There！ on MMQ&#39;S BLOG</title>
+    <title>MMQ&#39;S BLOG</title>
     <link>https://mmqiao.github.io/</link>
-    <description>Recent content in Miaomiao Qiao There！ on MMQ&#39;S BLOG</description>
+    <description>Recent content on MMQ&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>{year}</copyright>
-    <lastBuildDate>Sat, 20 May 2023 20:33:48 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 May 2023 20:27:40 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20230518随笔</title>
+      <link>https://mmqiao.github.io/informal_essay/informal_essay20230518/</link>
+      <pubDate>Thu, 18 May 2023 20:57:40 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/informal_essay/informal_essay20230518/</guid>
+      <description>西交的软件工程并不算很好，但它确确实实地找回了我的一部分信心。
+本科四年以来，我一直没有目标。无论是考公还是考研，都只是我为了掩盖自己的茫然。我总告诉自己船到桥头自然直，但现实是这样的吗？它似是而非。但是这段时间总算让我清醒了一些：我想成功，我想要有一技之长，我想要找到一份好的工作，我想要实现财富自由，我想要以后能回报社会、回报国家。
+对现在的我来说，这些东西很遥远，也很难想象如何去做到，但我一定要做到。
+这五年我过得很煎熬。这种煎熬不是持续性的，在学校里我用游戏和外卖麻痹自己，在家里我用别人对我985本的夸赞麻痹自己，但每到期末，每当我打开成绩单，每当我拼命赶ddl，每当我去开组会见导师，每当我听别人谈论科研、未来规划，我的内心都焦虑无比。还有毕业后这段时间的考研历程，由于四年来的无所事事，复习时又心存侥幸，加上半路拐去考公，第一次考研我理所应当的挂了。第二次考研时我又犯了同样的错误，明明知道时间落后别人一大截，我仍迟迟无法进入状态，拖到很晚的时间才开始复习，并被迫舍弃了政治和英语，把赌注全压在了数学和数据结构上。但是时间仍然不够，尽管我知道我数学能考140，但还是被吊车尾的数据结构弄得提心吊胆。好不容易初试成绩出来了，数据结构侥幸过线，但我又开始浪，等到复试前10天左右才真正开始复习，囫囵吞枣地赶完两本书，甚至在笔试前一晚被迫通宵。笔试完本应认真复习面试，但又补了觉加上玩手机，直到去面试前两小时，才匆匆看了一遍学长整理的往年面试真题，在面试现场胡言乱语。直到面试成绩出来之前的一秒，我都不知道自己是否能考上。直到面试成绩出来之后，我都不敢相信我自己的分数。
+大概是武大的学历、还有数学二的高分救了我的狗命吧。
+也许现在描述起来有些凡尔赛，好像我很随便就考上西交的研究生。也许我确实有那么一点点天分，但如果我最后没考上，这种天分屁都不是。对于结果还没确定的我而言，这其中的每分每秒都是煎熬。
+我讨厌以前的自己。
+我再也不想要这样提心吊胆的生活了。</description>
+    </item>
+    
+    <item>
+      <title>20230522</title>
+      <link>https://mmqiao.github.io/diary/20230522/</link>
+      <pubDate>Mon, 22 May 2023 20:27:40 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/diary/20230522/</guid>
+      <description>今天一整天小郑只和我发了两句话。虽然知道她今天在寄签证材料，但是到了晚上也不理我，有点伤心。
+下午健身的时候第一次用70kg推了两组，记录一下进步时刻。也终于找到一点练肩的感觉了，果然抛弃对重量的自尊心是正确的选择，要想进步还是得靠打好基础。
+在窗前可以看到整个人宽了一圈，印象里这是我状态最好的时刻。但离理想身材还有很远的路要走，不可以松懈，加油！
+（真像是小学生写的日记啊）</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Foundation</title>
+      <link>https://mmqiao.github.io/self_study/ubuntu_foundation/</link>
+      <pubDate>Mon, 22 May 2023 16:37:50 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/self_study/ubuntu_foundation/</guid>
+      <description>scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件
+命令格式为
+scp -P xx user@remote:file_address local_file_address
+可以用-r选项来传递文件夹
+在服务器端使用exit命令中断连接
+服务器可以设置免密码登录，以及设置别名方便登录
+chmod修改权限
+r代表读权限，w代表写权限，x代表执行权限，s代表
+chmod -R 755 文件名|目录</description>
+    </item>
+    
+    <item>
+      <title>Python Learning</title>
+      <link>https://mmqiao.github.io/self_study/python/</link>
+      <pubDate>Mon, 22 May 2023 16:36:00 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/self_study/python/</guid>
+      <description>python的单行注释，默认#和注释之间要有一个空格
+# 注释
+多行注释支持换行，三引号中间的内容都是注释
+&amp;ldquo;&amp;ldquo;&amp;ldquo;注释&amp;rdquo;&amp;rdquo;&amp;rdquo;
+type()函数可以查看数据类型，其返回值也可以赋值给变量
+需要注意的是，python的变量是没有类型的，type()返回的只是其中存储数据的类型
+print()函数可以输出多个数据，数据直接用逗号,隔开
+python中整数、浮点数都能转成字符串，但如果要把字符串转化成整数，要保证字符串中是正确的数字</description>
+    </item>
+    
+    <item>
+      <title>20230521</title>
+      <link>https://mmqiao.github.io/diary/20230521/</link>
+      <pubDate>Sun, 21 May 2023 19:55:27 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/diary/20230521/</guid>
+      <description>梦见我住进了交大的研究生宿舍，没有传闻中今年新建好的单间，但也很幸运的分到了四人间里的小隔间，一个厕所在我房间旁，基本上只有我自己用，感到很自由。
+家辰不知道为什么变成了我舍友，但他就没有单间的好运气了，被分在客厅。但是梦里他对面床位的舍友身上的味道有一股味道，因此家辰晚上还特意换了一侧睡觉，把头远离了。也是因为客厅味道的原因，他还来找我拼桌学习。我房间里有一大一小两桌子，我在小桌子学习，想让他去旁边的大桌子，但他坚持不用，和我挤在一张桌子写作业。
+算是弥补了一点大学里的遗憾，感觉很好。</description>
+    </item>
+    
+    <item>
+      <title>20230520</title>
+      <link>https://mmqiao.github.io/diary/20230520/</link>
+      <pubDate>Sun, 21 May 2023 19:55:24 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/diary/20230520/</guid>
+      <description>梦见在学校学习，突然芝蝶陈莉几个小学的同学出现，叫我出去玩。一开始我不想去，但想想很多年没见面了，聊聊天也不错，于是便让他们先去，说我马上到。
+但当我刚出教室门时，初中的同学开始出现并和我打招呼。大茗、林南、月饼、小辉、老炫，一起招呼我去教室上课。到了教室后碰到了二茗，原来他在这里读研究生并当上了助教，见到我他很惊讶，因为我也是来这里读研的。随后一群人出现在我研究生导师的办公室。导师拿出来了一份入学时候的成绩单，其中我的数学和英语成绩都排行第二（但是现实里我的英语其实很烂）。
+我努力想看清第一名是谁，但却始终看不清。
+我渴望成为第一名吗？我离第一名的日子已经很远了。无论是和谁比、比什么，这世界总有人比我强，除非能真正的到达世界顶端，但那对我来说太过遥远。
+也许我只是太想做出能够被别人承认的成就。</description>
+    </item>
+    
     <item>
       <title>灌篮高手阅后感</title>
       <link>https://mmqiao.github.io/informal_essay/basketball/</link>
@@ -29,24 +114,25 @@
     
     <item>
       <title>20230519</title>
-      <link>https://mmqiao.github.io/dream/20230519/</link>
+      <link>https://mmqiao.github.io/diary/20230519/</link>
       <pubDate>Fri, 19 May 2023 10:17:20 +0800</pubDate>
       
-      <guid>https://mmqiao.github.io/dream/20230519/</guid>
+      <guid>https://mmqiao.github.io/diary/20230519/</guid>
       <description>梦见在博雅苑挖出了兵马俑，而且各种奇形怪状的都有，仔细想想可能是昨晚看了空我的原因。即使在梦中，我也清晰地记得兵马俑这种东西不能买卖，但是又不想麻烦地联系博物馆。不知道是谁出了个主意说搬到楼下中国银行摄像头前面，自然有人会去处理。于是一群人还真的开始往人家门口搬。但事实上博雅苑楼下并没有中国银行，搬东西出入的楼栋也不是5栋而是2栋。在搬的过程中我还发现了一个酷似摩托车的兵马俑，想着拍照给小郑看看，但门口人来人往，等了好一会才等到机会拍。然而凑近拍摄时发现它有点掉漆，再仔细一看居然变成了一辆破破烂烂的单车。
 第二个梦梦见了一家人回老家去亲戚家串门，梦里我弟也跟着一起。在外面走了很久之后一群人在客厅休息，那间房子的布局很像我大伯以前住的。我又承担起了带小孩的任务，但是罕见地和小孩玩起了电子游戏。然而玩着玩着被我爸莫名其妙叫过去训了一顿，搞得很不开心。梦里的时间从下午四点走到五点，但我爸妈丝毫没有要回家的意思，但也没有和其他人交流什么事。直到五点多的时候两人才准备回去，但是又因为做饭的事吵了起来。我爸说肚子很饿，坚持要打电话让邻居帮忙先煮饭，我妈则不想麻烦别人，说回家很快又做好。两人当着亲戚的面开始黑脸，我和我弟对视一眼，再次不想说话。</description>
     </item>
     
     <item>
       <title>20230518</title>
-      <link>https://mmqiao.github.io/informal_essay/20230518/</link>
-      <pubDate>Thu, 18 May 2023 20:57:40 +0800</pubDate>
+      <link>https://mmqiao.github.io/diary/20230518/</link>
+      <pubDate>Thu, 18 May 2023 21:35:18 +0800</pubDate>
       
-      <guid>https://mmqiao.github.io/informal_essay/20230518/</guid>
-      <description>西交的软件工程并不算很好，但它确确实实地找回了我的一部分信心。
-本科四以来中我一直没有目标。无论是考公还是考研，都只是我为了掩盖自己的茫然。我总告诉自己船到桥头自然直，但现实是这样的吗？它似是而非。但是这段时间总算让我清醒了一些：我想成功，我想要有一技之长，我想要找到一份好的工作，我想要实现财富自由，我想要以后能回报社会、回报国家。对现在的我来说，这些东西很遥远，也很难想象如何去做到，但我一定要做到。
-这五年我过得很煎熬。这种煎熬不是持续性的，在学校里我用游戏和外卖麻痹自己，在家里我用别人对我985本的夸赞麻痹自己，但每到期末，每当我打开成绩单，每当我拼命赶ddl，每当我去开组会见导师，每当我听别人谈论科研、未来规划，我的内心都焦虑无比。还有毕业后这段时间的考研历程，由于四年来的无所事事，直到面试出来之前的一秒，我都不知道自己是否能考上，是否永远都跟不上别人的脚步了。
-我很讨厌本科时候的自己。事实上，对于小学到大学的每一段时间，我都能找到讨厌自己的理由。别人是不是也是这样的呢？我不知道。但是以后的日子，我不想再和本科一样提心吊胆了。</description>
+      <guid>https://mmqiao.github.io/diary/20230518/</guid>
+      <description>梦见很多亲戚去揭西玩，我陪着一个小孩子。
+房子周围突然出现了3条蛇，其中一条五步蛇钻进了厨房隔壁的房间，小孩不知道危险，还跑过去想拿手去抓，急得我连忙冲进房间，把他拽了出来，还和蛇对峙了一会，才有惊无险地退出房间，把蛇关在了里面。
+另一条眼镜王蛇钻进了我家汽车底部，还试图通过底盘钻进车内。我实在不想面对一条消失的随时可能出现车内任何地方的蛇，急得连忙去拽它的尾巴，把它拖了出来。它试图回头咬我，我一边躲避一边翻找出锄头，把它头砍了下来了。
+这时候我爸才姗姗来迟，我和他说我已经处理三条蛇了，但他却说没什么大不了的，还反问我三条蛇都在哪。我意识到数量对不上，但并没意识到这是梦，反倒开始思考是不是编瞎话被发现了，要怎么应对，但迟迟想不出对策，急得醒了过来。
+反思了一下是不是我确实平时编瞎话的次数太多了。</description>
     </item>
     
     <item>
@@ -70,15 +156,6 @@ blade的战力虽然也不太清晰，但主角还是会在#行文逻辑还是�
       
       <guid>https://mmqiao.github.io/woolgathering/%E6%97%B6%E9%97%B4%E6%97%85%E8%A1%8C/</guid>
       <description>时间旅行</description>
-    </item>
-    
-    <item>
-      <title>梦行</title>
-      <link>https://mmqiao.github.io/dream/20230518/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmqiao.github.io/dream/20230518/</guid>
-      <description>梦见很多亲戚去揭西玩，我陪着一个小孩子。但是突然出现了3条蛇，一条在厨房隔壁的房间，小孩不知道危险还跑过去拿手去抓，急得我连忙进去把他拽了出来，还和蛇对峙了一会，才有惊无险退出房间，把蛇关在了里面。另一条蛇钻进了我家汽车底，还试图通过底盘钻进车内。对大多数人来说消失的危险应该比看得见的危险更可怕，我急得连忙去拽蛇的尾巴，把它拖了出来，随机拿出锄头把它头给嘎了。这时候我爸才姗姗来迟，我和他说我已经处理三条蛇了，他和我说没什么大不了的，还反问我三条蛇都在哪。我也知道数量对不上，但还没意识这是梦，紧接着被闹钟吵醒了。</description>
     </item>
     
   </channel>
