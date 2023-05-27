@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ubuntu学习笔记 on MMQ&#39;S BLOG</title>
+    <title>计算机学习笔记 on MMQ&#39;S BLOG</title>
     <link>https://mmqiao.github.io/self_study/</link>
-    <description>Recent content in Ubuntu学习笔记 on MMQ&#39;S BLOG</description>
+    <description>Recent content in 计算机学习笔记 on MMQ&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>{year}</copyright>
@@ -38,7 +38,11 @@ chmod -R 755 文件名|目录</description>
 type()函数可以查看数据类型，其返回值也可以赋值给变量
 需要注意的是，python的变量是没有类型的，type()返回的只是其中存储数据的类型
 print()函数可以输出多个数据，数据直接用逗号,隔开
-python中整数、浮点数都能转成字符串，但如果要把字符串转化成整数，要保证字符串中是正确的数字</description>
+print()函数会自动换行，如果需要不换行，需要在括号内加上end=&amp;rsquo; &amp;rsquo;
+例:print(&amp;ldquo;hello&amp;rdquo;,end=&amp;rsquo; &amp;lsquo;)
+python中整数、浮点数都能转成字符串，但如果要把字符串转化成整数，要保证字符串中是正确的数字
+标识符是用户在编程的时候所使用的一系列名字，用于给变量、类、方法命名。
+标识符命名的规则有三点：</description>
     </item>
     
   </channel>
