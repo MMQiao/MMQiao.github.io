@@ -6,6 +6,16 @@
     <description>Recent content in Woolgathering on MMQ&#39;S BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <copyright>{year}</copyright><atom:link href="https://mmqiao.github.io/woolgathering/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>{year}</copyright>
+    <lastBuildDate>Mon, 29 May 2023 16:03:51 +0800</lastBuildDate><atom:link href="https://mmqiao.github.io/woolgathering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wishlist</title>
+      <link>https://mmqiao.github.io/woolgathering/wishlist/</link>
+      <pubDate>Mon, 29 May 2023 16:03:51 +0800</pubDate>
+      
+      <guid>https://mmqiao.github.io/woolgathering/wishlist/</guid>
+      <description>愿望清单 1.双厨房，一个用来处理生食材，一个用来处理熟食、瓜果</description>
+    </item>
+    
   </channel>
 </rss>

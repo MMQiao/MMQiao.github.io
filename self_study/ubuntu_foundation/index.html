@@ -4,15 +4,18 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Ubuntu Foundation</title>
-<meta name="description" content="scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件
-命令格式为
-scp -P xx user@remote:file_address local_file_address
-可以用-r选项来传递文件夹
-在服务器端使用exit命令中断连接
-服务器可以设置免密码登录，以及设置别名方便登录
-chmod修改权限
-r代表读权限，w代表写权限，x代表执行权限，s代表
-chmod -R 755 文件名|目录">
+<meta name="description" content="Linux终端实用命令
+通配符
+*代表任意数量的字符
+？代表任意一个字符
+[]表示其中一个字符
+[abc]abc任意一个字符
+[a-f]a-f中任意一个字符
+ls
+ls -a列出当前目录下全部文件
+ls -l以列表形式列出详细信息
+ls -h和-l配合，以字节方式显示文件大小
+ls -lha综合命令">
 <link rel="canonical" href="https://mmqiao.github.io/self_study/ubuntu_foundation/">
 <link rel="robots" href="/robots.txt" />
 
@@ -61,7 +64,49 @@ chmod -R 755 文件名|目录">
         </div>
     </header>
     <section class="content text-lg text-gray-800">
-    <p>scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件<br>
+    <p>Linux终端实用命令</p>
+<p>通配符<br>
+*代表任意数量的字符<br>
+？代表任意一个字符<br>
+[]表示其中一个字符<br>
+[abc]abc任意一个字符<br>
+[a-f]a-f中任意一个字符</p>
+<p>ls<br>
+ls -a列出当前目录下全部文件<br>
+ls -l以列表形式列出详细信息<br>
+ls -h和-l配合，以字节方式显示文件大小<br>
+ls -lha综合命令</p>
+<p>cd<br>
+cd ~返回主目录<br>
+cd ..返回上级目录<br>
+cd .保持当前目录<br>
+cd -在最近两个目录之前来回切换</p>
+<p>mkdir创建目录<br>
+mkdir -p a/b/c/d递归创建目录</p>
+<p>touch<br>
+文件不存在时创建文件<br>
+文件存在时修改文件的最后修改时间</p>
+<p>注：linux同一目录下不能出现同名文件夹和文件</p>
+<p>rm<br>
+rm -f强制删除<br>
+rm -r递归删除，文件夹必须加此选项</p>
+<p>tree树状目录显示文件和文件夹<br>
+tree -d只显示文件夹</p>
+<p>cp复制命令<br>
+cp -i复制文件时，如果文件已经存在，则询问是否覆盖<br>
+cp -r复制目录</p>
+<p>mv移动文件或目录，也可以重命名文件<br>
+mv -i移动文件时询问是否覆盖，文件夹无效</p>
+<p>cat显示文件内容</p>
+<p>more分屏显示文件内容<br>
+more操作按钮：<br>
+空格：显示手册页的下一屏<br>
+enter键：一次滚动手册页的一行<br>
+b：回滚一屏<br>
+f：向前一屏<br>
+q：退出more<br>
+/word：搜索word字符串</p>
+<p>scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件<br>
 命令格式为<br>
 scp <a href="%E5%A4%A7%E5%86%99P%EF%BC%8C%E7%94%A8%E6%9D%A5%E6%8C%87%E5%AE%9A%E7%AB%AF%E5%8F%A3">-P xx</a> user@remote:file_address local_file_address<br>
 可以用-r选项来传递文件夹</p>

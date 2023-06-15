@@ -14,15 +14,18 @@
       <pubDate>Mon, 22 May 2023 16:37:50 +0800</pubDate>
       
       <guid>https://mmqiao.github.io/self_study/ubuntu_foundation/</guid>
-      <description>scp命令，意为secure copy，可以在本地电脑和服务器之间传递文件
-命令格式为
-scp -P xx user@remote:file_address local_file_address
-可以用-r选项来传递文件夹
-在服务器端使用exit命令中断连接
-服务器可以设置免密码登录，以及设置别名方便登录
-chmod修改权限
-r代表读权限，w代表写权限，x代表执行权限，s代表
-chmod -R 755 文件名|目录</description>
+      <description>Linux终端实用命令
+通配符
+*代表任意数量的字符
+？代表任意一个字符
+[]表示其中一个字符
+[abc]abc任意一个字符
+[a-f]a-f中任意一个字符
+ls
+ls -a列出当前目录下全部文件
+ls -l以列表形式列出详细信息
+ls -h和-l配合，以字节方式显示文件大小
+ls -lha综合命令</description>
     </item>
     
     <item>
